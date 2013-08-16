@@ -53,11 +53,11 @@ classes should alter those!
 }
 
 .slick-sort-indicator-desc {
-  background: url(images/sort-desc.gif);
+  background: url(images/slick_grid/sort-desc.gif);
 }
 
 .slick-sort-indicator-asc {
-  background: url(images/sort-asc.gif);
+  background: url(images/slick_grid/sort-asc.gif);
 }
 
 .slick-resizable-handle {
@@ -76,6 +76,7 @@ classes should alter those!
 }
 
 .grid-canvas {
+  background-color: white;
   position: relative;
   outline: 0;
 }
